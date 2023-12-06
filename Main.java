@@ -1,4 +1,4 @@
-package com.arzero12.mavenproject1;
+package com.arzero12.main; // Don't copy this!
 
 // This is a comment, comments get ignored by the compiler. Comments begin with a double slash
 import java.util.Scanner; // Import the Scanner class, the scanner gets input.
