@@ -3,7 +3,7 @@ package com.arzero12.mavenproject1;
 // This is a comment, comments get ignored by the compiler. Comments begin with a double slash
 import java.util.Scanner; // Import the Scanner class, the scanner gets input.
 
-public class Mavenproject1 { // Class declaration, classnames must match filename,
+public class Main { // Class declaration, classnames must match filename,
 
     public static void main(String[] args) {
         System.out.println("Hello World!"); // Print a message to the commandline.
